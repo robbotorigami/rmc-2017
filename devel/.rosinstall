@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cyborg9/catkin_ws/devel/setup.sh
